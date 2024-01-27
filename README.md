@@ -1,5 +1,5 @@
 <div align="center" style="width: 100%;">
-    <h1>✨ Welcome to My GitHub Profile! ✨</h1>
+    <h1>✨ Welcome to My GitHub! ✨</h1>
     <h4>
         Hi, I'm Jiyeong!<br>
         Passionate about harnessing the power of data and artificial intelligence,<br>
